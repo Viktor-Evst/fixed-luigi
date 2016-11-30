@@ -10,7 +10,7 @@ luigi.cfg
 
 hadoop_test.py
 minicluster.py
-mrrunner.py
+#mrrunner.py
 pig_property_file
 
 packages.tar
